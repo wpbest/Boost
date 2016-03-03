@@ -57,5 +57,5 @@ Output binary are located in stage_x86\lib
 
 Build Boost with Visual Studio 2015 Update 1
 
-build\visualstudio\solutions\Boost\Boost.sln
+build\visualstudio\solutions\boost.uwp\boost.uwp.sln
 
